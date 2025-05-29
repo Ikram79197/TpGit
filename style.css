@@ -34,3 +34,18 @@ code {
     font-family: 'Fira Mono', monospace;
     color: #d73a49;
 }
+.github-btn {
+    display: block;
+    margin: 24px auto 0 auto;
+    padding: 10px 28px;
+    background-color: #24292f;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+.github-btn:hover {
+    background-color: #444c56;
+}
